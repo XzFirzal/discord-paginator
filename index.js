@@ -18,6 +18,7 @@ const defaultOpts = {
 	filter: (reaction, user) => true
 }
 
+
 function none() {}
 
 class Paginator {
